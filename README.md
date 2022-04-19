@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Sou (Felipe)!
+## Sou Felipe!
 
 :computer: Atualmente trabalho como Desenvolvedor de Testes Automatizados!
 
