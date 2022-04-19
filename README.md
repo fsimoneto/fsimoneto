@@ -4,7 +4,7 @@
 
 :computer: Atualmente trabalho como Desenvolvedor de Testes Automatizados!
 
-![fnsimonetoeuax GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![fnsimonetoeuax GitHub stats](https://github-readme-stats.vercel.app/api?username=fnsimonetoeuax&show_icons=true&theme=radical)
 
 ## Contatos
 
