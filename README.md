@@ -4,7 +4,7 @@
 - Experiência com testes manuais e automatizados, atualmente focado em automação web com (Ruby, Capybara, Selenium e Cucumber) com os frameworks (RSpec e Site_Prism) e automação de API com RSpec e HTTParty.
 - Iniciando estudos com Cypress para Web e API
 
-<div align="center">
+<div align="center">  
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=fsimoneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180" style="align-self:end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsimoneto&layout=compact&langs_count=7&theme=transparent"/>
 </div>
