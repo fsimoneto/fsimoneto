@@ -3,6 +3,7 @@
 - Hoje trabalho com desenvolvimento de testes automatizados
 - Experiência com testes manuais e automatizados, atualmente focado em automação web com (Ruby, Capybara, Selenium e Cucumber) com os frameworks (RSpec e Site_Prism) e automação de API com RSpec e HTTParty.
 - K6 para testes de performance
+- Iniciando novos desafios com Playwright para testes funcionais
 
 <div align="center">  
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsimoneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
