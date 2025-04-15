@@ -3,23 +3,6 @@
 - Hoje trabalho como QA Engineer Senior
 - Mais de 6 anos de experiência em qualidade de software. Minha especialidade é a construção de estratégias de testes eficientes, garantindo softwares robustos e de alta qualidade.
 
-- Formação:
-- Graduado em Análise e Desenvolvimento de Sistemas – Univel (Cascavel/PR)
-- Pós-graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software
-
-- Habilidades e Experiência:
-- Desenvolvimento e manutenção de testes automatizados para aplicações web e APIs
-- Elaboração de cenários de testes em Gherkin e execução de testes manuais e exploratórios
-- Validação de requisitos funcionais e não funcionais
-- Integração de testes automatizados em pipelines CI/CD em ambientes DevOps
-
-- Tecnologias e Ferramentas:
-- Automação Web: Capybara, Selenium, Playwright, Cypress
-- Frameworks: Cucumber, RSpec
-- Automação de API: RSpec, HTTParty
-- Testes de Performance: K6
-- Conteinerização: Jenkins, GitHub Actions
-
 <div align="center">  
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsimoneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="160" style="align-self:end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsimoneto&layout=compact&langs_count=7&theme=transparent"/>
