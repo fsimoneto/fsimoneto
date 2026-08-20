@@ -1,7 +1,7 @@
 ### Olá! Sou Felipe 👋
 
 - Hoje trabalho como QA Engineer Senior
-- Mais de 6 anos de experiência em qualidade de software. Minha especialidade é a construção de estratégias de testes eficientes, garantindo softwares robustos e de alta qualidade.
+- Mais de 7 anos de experiência em qualidade de software. Minha especialidade é a construção de estratégias de testes eficientes, garantindo softwares robustos e de alta qualidade.
 
 <div align="center">  
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsimoneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
