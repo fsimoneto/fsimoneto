@@ -3,11 +3,6 @@
 - Hoje trabalho como QA Engineer Senior
 - Mais de 7 anos de experiência em qualidade de software. Minha especialidade é a construção de estratégias de testes eficientes, garantindo softwares robustos e de alta qualidade.
 
-<div align="center">  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsimoneto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160" style="align-self:end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsimoneto&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Ru" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
